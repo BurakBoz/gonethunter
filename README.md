@@ -22,7 +22,7 @@ export GOOS="darwin"; export GOARCH="amd64"; go build gonethunter.go
 
 ### Sample usage
 ```bash
-./gonethunter -stopOnFound -input "iplist.txt" -output "found.txt" -search "www.google.com" -threads 300
+./gonethunter -stopOnFound -input "iplist.txt" -output "found.txt" -hostname "google.com" -search "www.google.com" -threads 300
 ```
 
 ### Run from source
