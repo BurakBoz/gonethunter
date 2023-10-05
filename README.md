@@ -1,14 +1,14 @@
 # Go NetHunter
 
-#### This was my "Hello World" project on GOLANG.
+```text
+This was my "Hello World" project on GOLANG.
+This program is created for educational purposes only.
+The developer is not responsible for its usage.
+Scanning any network without permission may be considered illegal in your country. 
+Users are solely responsible for their actions.
+```
 
-#### This program is created for educational purposes only.
-
-#### The developer is not responsible for its usage.
-
-#### Scanning any network without permission may be considered illegal in your country. 
-
-#### Users are solely responsible for their actions.
+[You can watch the video on Twitter](https://twitter.com/zoBkaruB/status/1708356471983858082/)
 
 ### Build
 ```bash
